@@ -1788,6 +1788,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "AssertSamples/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AssertSamples.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AssertSamples.dll": {}
+        }
       }
     }
   },
@@ -6262,10 +6272,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "AssertSamples/1.0.0": {
+      "type": "project",
+      "path": "../AssertSamples/AssertSamples.csproj",
+      "msbuildProject": "../AssertSamples/AssertSamples.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "AssertSamples >= 1.0.0",
       "MSTest.TestAdapter >= 2.2.8",
       "MSTest.TestFramework >= 2.2.8",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
@@ -6305,7 +6321,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\WORK\\UnitTesting\\AssertSamples\\AssertSamples\\AssertSamples.csproj": {
+              "projectPath": "D:\\WORK\\UnitTesting\\AssertSamples\\AssertSamples\\AssertSamples.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

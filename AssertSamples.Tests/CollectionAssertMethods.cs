@@ -8,5 +8,6 @@ namespace AssertSamples.Tests
 {
     internal class CollectionAssertMethods
     {
+
     }
 }

@@ -1,0 +1,12 @@
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\bin\Debug\net6.0\AssertSamples.deps.json
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\bin\Debug\net6.0\AssertSamples.dll
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\bin\Debug\net6.0\AssertSamples.pdb
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.csproj.AssemblyReference.cache
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.AssemblyInfoInputs.cache
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.AssemblyInfo.cs
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.csproj.CoreCompileInputs.cache
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.dll
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\refint\AssertSamples.dll
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\AssertSamples.pdb
+D:\WORK\UnitTesting\AssertSamples\AssertSamples\obj\Debug\net6.0\ref\AssertSamples.dll
